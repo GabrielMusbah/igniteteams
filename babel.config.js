@@ -13,7 +13,7 @@ module.exports = function(api) {
             '@components': './src/components',
             '@screens': './src/screens',
             '@storage': './src/storage',
-            '@utils': './scr/utils'
+            '@utils': './src/utils'
           }
         }
       ]
